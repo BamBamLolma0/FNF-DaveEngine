@@ -1,5 +1,5 @@
 # Deprecation warning
-This engine is no longer being mantained. Wait for 3.5!
+This engine is no longer being mantained. Wait for 3.5! 
 
 # NOTICE
 If you are getting an issue with random crashes without no error messages, update your hxcpp with `haxelib update hxcpp` or use the bleeding edge version (not recommended) via `haxelib git hxcpp https://github.com/HaxeFoundation/hxcpp master`.
